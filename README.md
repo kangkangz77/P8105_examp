@@ -1,2 +1,3 @@
-# P8105_examp
-P8105_example
+# P8105_example
+
+quick example repo for in-class git demo
